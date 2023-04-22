@@ -1,0 +1,101 @@
+ {
+  "categories": [
+    {
+      "type": "teacher",
+      "title": "Teacher",
+      "logo": "chalkboard-teacher"
+    },
+    {
+      "type": "restaurant",
+      "title": "Restaurant",
+      "logo": "cutlery"
+    },
+    {
+      "type": "taxi",
+      "title": "Taxi driver",
+      "logo": "taxi"
+    },
+    {
+      "type": "beauty-parlour",
+      "title": "Beauty Parlour",
+      "logo": "spa"
+    },
+    {
+      "type": "shop",
+      "title": "Shops",
+      "logo": "shop"
+    }
+  ],
+  "partners": [
+    {
+      "type": "teacher",
+      "title": "Poojan",
+      "description": "Best hiking teacher",
+      "contact": {
+        "phone": "897",
+        "email": "email",
+        "address": "add",
+        "facebook": "fb",
+        "instagram": "abc",
+        "mapLink": "",
+        "website": "https://nepikose.com"
+      }
+    },
+    {
+      "type": "teacher",
+      "title": "Bimal",
+      "description": "Best Math teacher",
+      "contact": {
+        "phone": "8976",
+        "email": "email1",
+        "address": "add",
+        "facebook": "fb",
+        "instagram": "abc",
+        "mapLink": "",
+        "website": "https://nepikose.com"
+      }
+    },
+    {
+      "type": "teacher",
+      "title": "Binod",
+      "description": "Learn photograhy for the best",
+      "contact": {
+        "phone": "8976",
+        "email": "email1",
+        "address": "add",
+        "facebook": "fb",
+        "instagram": "abc",
+        "mapLink": "",
+        "website": "https://nepikose.com"
+      }
+    },
+    {
+      "type": "teacher",
+      "title": "Sabin",
+      "description": "Best Nepali consuler",
+      "contact": {
+        "phone": "8976",
+        "email": "email1",
+        "address": "add",
+        "facebook": "fb",
+        "instagram": "abc",
+        "mapLink": "",
+        "website": "https://nepikose.com"
+      }
+    },
+    {
+      "type": "teacher",
+      "title": "Kushal",
+      "description": "Best Nepali consuler",
+      "contact": {
+        "phone": "8976",
+        "email": "email1",
+        "address": "add",
+        "facebook": "fb",
+        "instagram": "abc",
+        "mapLink": "",
+        "website": "https://nepikose.com"
+      }
+    }
+  ]
+}
