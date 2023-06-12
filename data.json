@@ -28,73 +28,661 @@
   ],
   "partners": [
     {
-      "type": "teacher",
-      "title": "Poojan",
-      "description": "Best hiking teacher",
+      "type": "restaurant",
+      "title": "Pizzeria Sants",
+      "description": "El mejor restaurante de cocina pasta y pizzería en el distrito Sants-Montjuïc de Barcelona",
       "contact": {
-        "phone": "897",
-        "email": "email",
-        "address": "add",
-        "facebook": "fb",
-        "instagram": "abc",
-        "mapLink": "",
-        "website": "https://nepikose.com"
+        "phone": "934 11 04 13",
+        "address": "C. de Galileu, 1, 08028 Barcelona",
+        "website": "https://pizzeriasants.com/",
+        "email": "pizzeriasants@gmail.com",
+        "facebook": "https://www.facebook.com/pizzeriasants/",
+        "instagram": "https://www.instagram.com/pizzeriasants2018/",
+        "mapLink": "https://goo.gl/maps/xKy6NyxJNFBQD3nA7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Taverna El Racó de Sants",
+      "description": "Un rincón perfecto para disfrutar de las copas con las tapas más auténticas y el plato mediterráneo en el barrio de Sants.",
+      "contact": {
+        "phone": "934 21 64 22",
+        "address": "Carrer del Guadiana, 6, 08014 Barcelona",
+        "website": "http://www.tavernaracodesants.es/",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/8iAPm8iHPWjVYK79A"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "O'Rincon Gallego",
+      "description": "",
+      "contact": {
+        "phone": "933 11 24 07",
+        "address": "Avinguda Meridiana, 492, 08030 Barcelona",
+        "website": "http://www.orincongalego.es/",
+        "email": "",
+        "facebook": "https://www.facebook.com/people/Rincongalego-Rincongalego/pfbid02XUG912uzfrRTC2FrsavJqVmmBBJcwWCgXY37NFpzD46CF4hjkFArWJPHtNChBcxkl/",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/APndvdDhzMJkTDw5A"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Sushi Queen",
+      "description": "",
+      "contact": {
+        "phone": "936 27 60 84",
+        "address": "Carrer de Minerva, 11, 08006 Barcelona",
+        "website": "http://sushiqueenbcn.com/",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/cBvNqnLwXhLbsaqz7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "BCN Brunch",
+      "description": "",
+      "contact": {
+        "phone": "617 72 50 05",
+        "address": "C. del Comte Borrell, 292, 08029 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/pJw4ht6WShobsa7f7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "El Felino Pizzeria",
+      "description": " Restaurante El Felino se encuentra a escasos metros de la Sagrada Familia, el monumento cumbre de Antoni Gaudí. Actualmente, llevan ya más de 40 años abiertos al público.  El Felino cuenta con una decoración clásica y acogedora. Alrededor de todo el local podemos ver lámparas colgadas en las paredes desprendiendo una luz naranja, que convierte el salón en un sitio mucho más íntimo donde podremos disfrutar de sus excelentes platos. Aparte disponen de una terraza con varias mesas.  Su especialidad son las pizzas y platos de pastas frescas como el Fetuccini al salmone affumicato o el Spaghetti paja heno factoria. Aparte cuentan con una amplia variedad de platos como entrantes, ensaladas, pasta fresca rellena y gnocchis de la casa. ",
+      "contact": {
+        "phone": "934 36 77 13",
+        "address": "Carrer de la Marina, 269, 08025 Barcelona",
+        "website": "http://www.elfelino.es/",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/GjYVi9c3Bx5u9D9H7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Restaurant Sancho Bar i Cafeteria",
+      "description": "",
+      "contact": {
+        "phone": "936 11 71 29",
+        "address": "C/ de Sancho de Ávila, 7, Piso 6 / 1, 08018 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/WGca9SxMmeK2TYRA7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "The Famous Bar",
+      "description": "",
+      "contact": {
+        "phone": "931 64 47 51",
+        "address": "Carrer de Lepant, 293, 08025 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/fQtLocAS2S4QwgoE7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Golesa Bar Restaurante",
+      "description": "Restaurante de Barcelona que encontrarás en Carrer de Sicília, 207, 08013 Barcelona.",
+      "contact": {
+        "phone": "931 96 67 11",
+        "address": "C/ de Sicília, 207, 08013 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/wLG48iZpfyxhp6HB6"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Yarsa Gumba Restraurant",
+      "description": "Indian and Nepalese restaurant with vegan choices.",
+      "contact": {
+        "phone": "",
+        "address": "Carrer de Bassegoda, 16, 08028 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/ayMe2L7GTcHVAdFP6"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "IL Piccolo Di Gracia",
+      "description": "",
+      "contact": {
+        "phone": "932 85 67 74",
+        "address": "C/ de Ramón y Cajal, 146, 08024 Barcelona",
+        "website": "https://il-piccolo-di-gracia.business.site/?utm_source=gmb&utm_medium=referral",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/E1MvhVkPsRCgGQBYA"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Aruku Sushi",
+      "description": "Deseas delicioso sushi cerca de Barcelona? Echa un vistazo a nuestro restaurante",
+      "contact": {
+        "phone": "934 59 26 42",
+        "address": "C/ de Provença, 327, 08037 Barcelona",
+        "website": "https://arukubcn.com/",
+        "email": "admin@arukubcn.com",
+        "facebook": "https://www.facebook.com/ArukuBcn",
+        "instagram": "https://www.instagram.com/aruku.bcn/",
+        "mapLink": "https://goo.gl/maps/NSJWHXE4peSkLUSp7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "koikoisushi",
+      "description": "",
+      "contact": {
+        "phone": "935 18 02 75",
+        "address": "Travessera de Gràcia, 320, 08025 Barcelona",
+        "website": "https://www.koikoi.es/?l=es",
+        "email": "",
+        "facebook": "https://www.facebook.com/koikoisushibarcelona",
+        "instagram": "https://www.instagram.com/koikoibcn/?hl=es",
+        "mapLink": "https://goo.gl/maps/e3bo9RvCgSb2nRJA7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Corleone Restaurante",
+      "description": "",
+      "contact": {
+        "phone": "935 74 68 63",
+        "address": "Carrer de la Riera Blanca, 12, 08903 L'Hospitalet de Llobregat, Barcelona",
+        "website": "https://www.restaurantecorleone.com/",
+        "email": "contact@restaurantecorleone.com",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/restaurante_corleone/",
+        "mapLink": "https://goo.gl/maps/TKLCaj36uNQ9eAf17"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Bar pande Super Barcelona",
+      "description": "Enjoy perfectly cooked empanadas and good pies that are served at this bar. As for the Google rating, Bar pande Super Barcelona earned 4.4.",
+      "contact": {
+        "phone": "632315634",
+        "address": "Av. del Carrilet, 288, 08901 L'Hospitalet de Llobregat, Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/2EU3jowwPfQ4NuKH8"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Everest tapa bar",
+      "description": "",
+      "contact": {
+        "phone": "631 52 60 20",
+        "address": "Travessera de les Corts, 136, 2, 08028 Barcelona",
+        "website": "http://www.everesttapasbar.com/",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/zdH1AEzgaEsifq916"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Vegan garden - Gran Via",
+      "description": "Brand new Vegan Indian-style restaurant. We stumbled across it on opening night, where they were offering a free beer or vegan milkshake",
+      "contact": {
+        "phone": "933 04 39 53",
+        "address": "Gran Via de les Corts Catalanes, 602, 08007 Barcelona",
+        "website": "https://veggiegardengroup.com/gran-via/",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/We2RSnBCCe2a6uvJ7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Vegan garden - Sitges",
+      "description": "Brand new Vegan Indian-style restaurant. We stumbled across it on opening night, where they were offering a free beer or vegan milkshake",
+      "contact": {
+        "phone": "936337063",
+        "address": "Carrer primer de maig, 1-3, 08870. Sitges",
+        "website": "https://veggiegardengroup.com/sitges/",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/eHewG4tHyud7Yibx9"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Vegan garden - El Raval",
+      "description": "Brand new Vegan Indian-style restaurant. We stumbled across it on opening night, where they were offering a free beer or vegan milkshake",
+      "contact": {
+        "phone": "931 80 23 34",
+        "address": "Carrer dels Àngels, 3, 08001 Barcelona",
+        "website": "https://veggiegardengroup.com/el-raval/",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/LYj29Wb9yyirMTzNA"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Hola Nepal Restaurant",
+      "description": "A partir de ahora Hola Nepal se va a convertir en uno de tus imprescindibles de la comida a domicilio. Descubre su gran variedad de comida asiática, además de la selección de cocina hindú. Un amplio abanico de platos que harán las delicias de tu paladar. Puedes comenzar con un momo o unas samosas, continuar con un chicken tikka o un jhinga masala. ",
+      "contact": {
+        "phone": "934 56 49 78",
+        "address": "Carrer de Lepant, 323, 08025 Barcelona",
+        "website": "https://www.holanepal.es/?l=es",
+        "email": "restaurantholanepal@hotmail.com",
+        "facebook": "https://www.facebook.com/holanepalresturantandbar/",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/eq2ji6KJBjKBCB6B9"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Rasoi",
+      "description": "Trendy destination for spicy North Indian meat dishes, curries & breads, plus vegetarian options.",
+      "contact": {
+        "phone": "931 17 05 61",
+        "address": "C/ de Londres, 63, 08036 Barcelona",
+        "website": "https://restauranterasoi.es/",
+        "email": "",
+        "facebook": "https://www.facebook.com/rasoibcn/",
+        "instagram": "https://www.instagram.com/rasoibcn/",
+        "mapLink": "https://goo.gl/maps/gEVUTdsuNrEAqasy9"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Rasoighar",
+      "description": "Trendy destination for spicy North Indian meat dishes, curries & breads, plus vegetarian options.",
+      "contact": {
+        "phone": "93 3484900",
+        "address": "Reina Cristina, 10, Barcelona, 08003, Spain ",
+        "website": "https://restauranterasoi.es/",
+        "email": "",
+        "facebook": "https://www.facebook.com/rasoibcn/",
+        "instagram": "https://www.instagram.com/rasoibcn/",
+        "mapLink": "https://goo.gl/maps/C4ZZtvgBhPZL5oNXA"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Bistro Sagrada",
+      "description": "Experiencia Gourmet En La Base De La Sagrada Familia",
+      "contact": {
+        "phone": "631 81 07 27",
+        "address": "Carrer de la Marina, 228, 08013 Barcelona",
+        "website": "https://restaurantebistrosagrada.com/",
+        "email": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/restaurantebistrosagrada/",
+        "mapLink": "https://goo.gl/maps/1oEMTDvLUZU8amFF9"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Mummy's momo",
+      "description": "Nepali momo house near Sagrada Familia specializing in nepalese street food.",
+      "contact": {
+        "phone": "665064837",
+        "address": "C/ de Lepant, 346, 08025 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/yjRdbTqLnbgJ881M9"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Chulo Bar Restaurant",
+      "description": "",
+      "contact": {
+        "phone": " 935 38 87 18",
+        "address": "C/ de Bailèn, 150, 08037 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/AVDq2JrGcfM8NDXj9"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Lasun Restaurant",
+      "description": "",
+      "contact": {
+        "phone": "934 59 28 54",
+        "address": "C/ d'Aragó, 397, 08013 Barcelona",
+        "website": "http://www.lasunbcn.es/",
+        "email": "",
+        "facebook": "https://www.facebook.com/lasunbcn",
+        "instagram": "https://www.instagram.com/lasunbcn/",
+        "mapLink": "https://goo.gl/maps/9ZpH14LNvJbo1P5L6"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Sherpa Bar & Restaurant",
+      "description": "All info on Sherpa Bar & Restaurant in L'Hospitalet de Llobregat - Call to book a table.",
+      "contact": {
+        "phone": " 722 75 15 36",
+        "address": "Carrer de Jacint Verdaguer, 19, 08902 L'Hospitalet de Llobregat, Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/FgQwzk4c1Vo6q1m67"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Royal Nepal Restaurant",
+      "description": "Restaurante Royal Nepal, deliciosa comida India y Nepalí en Barcelona. ",
+      "contact": {
+        "phone": "931 05 42 43",
+        "address": "C/ de Nàpols, 255, 08025 Barcelona",
+        "website": "https://royalnepal.es/",
+        "email": "",
+        "facebook": "https://www.facebook.com/royalnepalbcn",
+        "instagram": "https://www.instagram.com/royalnepalbarcelona/",
+        "mapLink": "https://goo.gl/maps/VMeCUBuCwqUoXjFA7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Restaurante Casa Muyo",
+      "description": "Negocio familiar que tuvo su origen en los sesenta y desde su inicio está dedicado exclusivamente a la cocina mediterranea Disponemos de acogedores salones y personal cualificado para que su estancia en nuestro restaurante le resulte lo más acogedora posible. Entre nuestras especialidades contamos con una gran variedad de platos como son los arroces (caldoso con bogavante, de nécoras) y nuestras carnes traidas expresamente de Galicia. Tenemos a su disposición un gran surtido de tapas.Y un menu diario muy valorado por los clientes, por su calidad y precio",
+      "contact": {
+        "phone": "932 31 77 16",
+        "address": "C. del Consell de Cent, 424, 08013 Barcelona",
+        "website": "http://www.restaurantecasamuyo.com/",
+        "email": "",
+        "facebook": "https://www.facebook.com/restaurantecasamuyo/",
+        "instagram": "https://www.instagram.com/restaurantecasamuyo/",
+        "mapLink": "https://goo.gl/maps/UZrqUW6okUS3Pm2D7"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "Gandhi Indian Restaurant",
+      "description": "La mejor cocina hindú tradicional y contemporánea, con una gran variedad de sabores, aromas y texturas. Disponemos de platos elaborados en asador Tandoor de diferentes tipos de aves como el pollo y carnes como el cordero, macerado con una mezcla de yogur y especias tradicionales hindúes.  Sabores del este con platos agrios y picantes. Prueba nuestra cocina ligera, dónde las verduras, tubérculos y hortalizas son parte fundamental de la dieta, por lo que están presentes en nuestros menús, saludables y aptos para vegetarianos, acompañadas de arroz y legumbres.",
+      "contact": {
+        "phone": "933 01 01 69",
+        "address": "C/ de Balmes, 21, 08007 Barcelona",
+        "website": "https://gandhi-bcn.com/",
+        "email": "info@gandhi-bcn.com",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/gandhirestaurantehindu/",
+        "mapLink": "https://goo.gl/maps/QbBfnevr6BtnU2D17"
+      }
+    },
+    {
+      "type": "restaurant",
+      "title": "RESTAURANTE KAT (ChhitoMittho)",
+      "description": "",
+      "contact": {
+        "phone": "653403948 , 93 196 4856",
+        "address": "Avinguda Meridiana, 482, 08030 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/chittomittho/?hl=en",
+        "mapLink": "https://goo.gl/maps/1qiqbPMHfbt3XvMB8"
+      }
+    },
+    {
+      "type": "taxi",
+      "title": "sunil ranabhat",
+      "description": "mejor taxista de barcelona",
+      "contact": {
+        "phone": "",
+        "address": "",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": ""
       }
     },
     {
       "type": "teacher",
-      "title": "Bimal",
-      "description": "Best Math teacher",
+      "title": "Bimal Subedi",
+      "description": "Learn programming, maths, science, english, physics with Bimal",
       "contact": {
-        "phone": "8976",
-        "email": "email1",
-        "address": "add",
-        "facebook": "fb",
-        "instagram": "abc",
-        "mapLink": "",
-        "website": "https://nepikose.com"
+        "phone": "645306675",
+        "address": "",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": ""
       }
     },
     {
       "type": "teacher",
-      "title": "Binod",
-      "description": "Learn photograhy for the best",
+      "title": "Poojan Timilsina",
+      "description": "Learn project management, EU funds, maths, science, account with Poojan. Contact him for recommendation of trips and travels in Nepal",
       "contact": {
-        "phone": "8976",
-        "email": "email1",
-        "address": "add",
-        "facebook": "fb",
-        "instagram": "abc",
-        "mapLink": "",
-        "website": "https://nepikose.com"
+        "phone": "651491515",
+        "address": "",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": ""
       }
     },
     {
       "type": "teacher",
-      "title": "Sabin",
-      "description": "Best Nepali consuler",
+      "title": "Kushal Dumre",
+      "description": "Learn programming, vehicles standardization processes, maths, science, english with Kushal",
       "contact": {
-        "phone": "8976",
-        "email": "email1",
-        "address": "add",
-        "facebook": "fb",
-        "instagram": "abc",
-        "mapLink": "",
-        "website": "https://nepikose.com"
+        "phone": "666452254",
+        "address": "",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": ""
       }
     },
     {
       "type": "teacher",
-      "title": "Kushal",
-      "description": "Best Nepali consuler",
+      "title": "Rishta Gurung",
+      "description": "Professional English teacher",
       "contact": {
-        "phone": "8976",
-        "email": "email1",
-        "address": "add",
-        "facebook": "fb",
-        "instagram": "abc",
-        "mapLink": "",
-        "website": "https://nepikose.com"
+        "phone": "",
+        "address": "",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": ""
+      }
+    },
+    {
+      "type": "teacher",
+      "title": "Binod Lama",
+      "description": "Learn photography, video editing, programming and many more with Binod",
+      "contact": {
+        "phone": "632178868",
+        "address": "",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": ""
+      }
+    },
+    {
+      "type": "teacher",
+      "title": "Sabin Gurung",
+      "description": "Learn painting, programming with Sabin",
+      "contact": {
+        "phone": "631386412",
+        "address": "",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": ""
+      }
+    },
+    {
+      "type": "teacher",
+      "title": "Bijay Timilsina",
+      "description": "Learn programming, maths, science, english, physics with Bijay",
+      "contact": {
+        "phone": "637150322",
+        "address": "",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": ""
+      }
+    },
+    {
+      "type": "shop",
+      "title": "Welcomenepal shop Barcelona",
+      "description": "Nepalese and tibetean shop in Gracia area",
+      "contact": {
+        "phone": "676 49 69 18",
+        "address": "Carrer del Torrent de l'Olla, 27, 08012 Barcelona",
+        "website": "https://welcomenepalshop.wordpress.com/",
+        "email": "",
+        "facebook": "https://www.facebook.com/welcomenepalshopbarcelona/",
+        "instagram": "https://www.instagram.com/welcomenepalshop/?hl=en",
+        "mapLink": "https://goo.gl/maps/dLxfoXWH8KdB9gz59"
+      }
+    },
+    {
+      "type": "shop",
+      "title": "Casa Nepal",
+      "description": "Nepalese and tibetean shop in Sagrada Familia area",
+      "contact": {
+        "phone": "666 98 69 27",
+        "address": " Carrer  de València, 435, Bajo, 08013 Barcelona",
+        "website": "https://singingbowlsound.com/",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/BF6eouok6XB59sK97"
+      }
+    },
+    {
+      "type": "shop",
+      "title": "Himalayan Paradise",
+      "description": "Nepalese and tibetean shop in Gracia area",
+      "contact": {
+        "phone": "934 15 72 52",
+        "address": "Carrer del Torrent de l'Olla, 186, 08012 Barcelona",
+        "website": "https://www.himalayan-paradise.es/",
+        "email": "",
+        "facebook": "https://www.facebook.com/himalayan.paradise/",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/Sw9cSgMUKHDjxKvAA"
+      }
+    },
+    {
+      "type": "shop",
+      "title": "NEPAL ART &HANDICRAFT",
+      "description": "Nepalese and tibetean shop in Gracia area",
+      "contact": {
+        "phone": "612 52 07 30",
+        "address": " Carrer de la Diputació, 296, BJ, 08009 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/poFPNHDPVommdCy37"
+      }
+    },
+    {
+      "type": "shop",
+      "title": "High Malaya",
+      "description": "Cannabis with Nepalese and tibetean shop in Gracia area",
+      "contact": {
+        "phone": "931 85 73 96",
+        "address": "Travessera de Gràcia, 191, 08012 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/highmalayaritual/",
+        "mapLink": "https://goo.gl/maps/x4yriLZSjmd3McvLA"
+      }
+    },
+    {
+      "type": "shop",
+      "title": "Sugandha Collection",
+      "description": "",
+      "contact": {
+        "phone": "930 43 03 70",
+        "address": "Travessera de Gràcia, 201, 08012 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/oV338EPbegczotu56"
+      }
+    },
+    {
+      "type": "shop",
+      "title": "Ethnic",
+      "description": "Nepalese and tibetean shop in las Ramblas",
+      "contact": {
+        "phone": "933 18 63 22",
+        "address": "Carrer de l'Arc de Santa Eulàlia, 08002 Barcelona",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/1vH8VH1y7FkkCjKf9"
+      }
+    },
+    {
+      "type": "shop",
+      "title": "Everest Buddha Nepal",
+      "description": "Nepalese and tibetean shop in Sants area",
+      "contact": {
+        "phone": "",
+        "address": "",
+        "website": "",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "mapLink": "https://goo.gl/maps/Ta6A2MLDC5jd4XvGA"
       }
     }
   ]
